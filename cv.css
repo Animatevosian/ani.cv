@@ -1,3 +1,25 @@
-/* .photocls {
-    display: grid;
-grid-template-columns: 1fr 4fr;} */
+.container {
+    background-color: lightgray;
+
+}
+.image{
+    width: 200px;
+    height: 250px;
+}
+.photoicon {
+font-size: 24px;
+border-radius: 20px ;
+}
+.musicon{
+    font-size: 24px;
+    border-radius: 20px;
+}
+.swimmericon {
+    font-size: 24px;
+    border-radius: 20px;
+}
+.github{
+
+position: relative;
+text-align: right;
+}
